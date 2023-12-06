@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: menghout009-personal-portfolio
-          image: kshrdautopilot/menghout009-personal-portfolio
+          image: kshrdautopilot/menghout009-personal-portfolio:2023-12-06-08-18-39
           ports:
             - containerPort: 3000
